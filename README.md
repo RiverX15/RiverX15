@@ -1,4 +1,4 @@
-Hi, I’m @RiverX15
+Hi, I’m Shikhar Singh, a Computer Science freshman at Birla Institute of Technology and Science, Pilani—Pilani Campus.
 
 <!---
 RiverX15/RiverX15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
