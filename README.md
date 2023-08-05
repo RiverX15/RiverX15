@@ -1,6 +1,6 @@
 # Hi!
 
-I’m Shikhar Singh, a Computer Science freshman at Birla Institute of Technology and Science, Pilani—Pilani Campus.
+I’m Shikhar Singh, a Computer Science sophomore at Birla Institute of Technology and Science, Pilani—Pilani Campus.
 
 I have basic knowledge of C, C++ and Python, and am an aspiring competitive programmer. You may have a look at my
 [Codeforces](https://codeforces.com/profile/RiverX15), 
